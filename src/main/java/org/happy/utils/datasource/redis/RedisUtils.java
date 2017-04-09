@@ -10,7 +10,7 @@ import redis.clients.jedis.JedisPoolConfig;
  * Redis访问工具类
  *
  * @author happy
- * @version 17/4/08 下午7:00
+ * @version 17/4/09 上午10:00
  */
 public final class RedisUtils {
     private static Logger logger = LoggerFactory.getLogger(RedisUtils.class);
