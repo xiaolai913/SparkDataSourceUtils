@@ -8,6 +8,7 @@
 - ElasticSearch
   - 目前主要提供了ES 写的Java API实现方法，读取/查询ES的方法可参考[ES JAVA API](https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-api.html)
   - REST FUL方式读写ES`待补充`
+  - 也可参考github上的三方实现[spark-es](https://github.com/SHSE/spark-es)
 - Redis
   - 提供Redis连接池对象的创建/释放静态类方法，及读写示例 
 - HBase
